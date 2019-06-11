@@ -1,2 +1,2 @@
 # WindowsApp
-Application to demonstrate C# DevOps pipeline
+Application to demonstrate C# devops pipeline
