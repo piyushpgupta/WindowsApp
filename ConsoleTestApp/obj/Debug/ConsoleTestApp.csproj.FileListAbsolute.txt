@@ -1,0 +1,11 @@
+C:\Users\suyash86\source\repos\ConsoleTestApp\ConsoleTestApp\bin\Debug\ConsoleTestApp.exe.config
+C:\Users\suyash86\source\repos\ConsoleTestApp\ConsoleTestApp\bin\Debug\ConsoleTestApp.exe
+C:\Users\suyash86\source\repos\ConsoleTestApp\ConsoleTestApp\bin\Debug\ConsoleTestApp.pdb
+C:\Users\suyash86\source\repos\ConsoleTestApp\ConsoleTestApp\obj\Debug\ConsoleTestApp.csproj.CoreCompileInputs.cache
+C:\Users\suyash86\source\repos\ConsoleTestApp\ConsoleTestApp\obj\Debug\ConsoleTestApp.exe
+C:\Users\suyash86\source\repos\ConsoleTestApp\ConsoleTestApp\obj\Debug\ConsoleTestApp.pdb
+C:\Users\suyash86\source\repos\ConsoleTestApp\ConsoleTestApp\bin\Debug\ConsoleTestApp.exe.manifest
+C:\Users\suyash86\source\repos\ConsoleTestApp\ConsoleTestApp\bin\Debug\ConsoleTestApp.application
+C:\Users\suyash86\source\repos\ConsoleTestApp\ConsoleTestApp\obj\Debug\ConsoleTestApp.exe.manifest
+C:\Users\suyash86\source\repos\ConsoleTestApp\ConsoleTestApp\obj\Debug\ConsoleTestApp.application
+C:\Users\suyash86\source\repos\ConsoleTestApp\ConsoleTestApp\obj\Debug\ConsoleTestApp.csprojAssemblyReference.cache
