@@ -9,7 +9,7 @@ namespace ConsoleTestApp
     public class Trigonometric
     {
         //public  variables
-        public static double eqSide1, eqSide2, eqSide3;
+        public static double eqSide1, eqSide2, eqSide3
         public static string actualResult;
 
         
