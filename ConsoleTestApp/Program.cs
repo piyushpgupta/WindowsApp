@@ -12,6 +12,7 @@ namespace ConsoleTestApp
         public static double eqSide1, eqSide2, eqSide3;
         public static string actualResult;
 
+        
         public static string TrianlgeSidesInput(double side1, double side2, double side3)
         {
             string TriangleType = "";
