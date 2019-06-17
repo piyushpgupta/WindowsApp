@@ -39,7 +39,7 @@ namespace ConsoleTestApp
             {
                 case "Equilateral":
                     Console.WriteLine("It is Equilateral Traingle ! Reason: It's all sides are equal.\n\n\t i. e. {0}=={1}=={2}", side1, side2, side3);
-                    Console.WriteLine("For Next : Press Enter \n");
+                    Console.WriteLine("For Next : Press Enter \n")
 
                     break;
 
