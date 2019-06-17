@@ -65,7 +65,7 @@ namespace ConsoleTestApp
         {
             Console.Write("Triangle Type Test :-\n----------------------------\n\n");
 
-            Trigonometric.TrianlgeSidesInput(12, 12, 12)
+            Trigonometric.TrianlgeSidesInput(12, 12, 12);
             Console.ReadLine();
 
             Trigonometric.TrianlgeSidesInput(12, 12, 15);
