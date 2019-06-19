@@ -46,6 +46,7 @@ namespace ConsoleTestApp
                 case "Isosceles":
                     Console.WriteLine("It is Isosceles Traingle ! Reason: It's two sides are equal.\n\n\t i. e. {0}=={1}=={2}", side1, side2, side3);
                     Console.WriteLine("For Next : Press Enter \n");
+                    Console.WriteLine("For Next : Press Enter \n");
                     break;
 
                 case "Scalene":
