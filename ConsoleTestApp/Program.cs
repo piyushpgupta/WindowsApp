@@ -27,11 +27,11 @@ namespace ConsoleTestApp
                 eqSide1 = side1; eqSide2 = side2; eqSide3 = side3;
                 actualResult = "Isosceles";
             }
-             else if ((side1 == side2) || (side1 != side3) || (side2 == side3))
+             else if ((side1 == side2) || (side1 == side3) || (side2 == side3))
             {
-                TriangleType = "Isosceles1";
+                TriangleType = "Isosceles";
                 eqSide1 = side1; eqSide2 = side2; eqSide3 = side3;
-                actualResult = "Isosceles1";
+                actualResult = "Isosceles";
             }
             else
             {
