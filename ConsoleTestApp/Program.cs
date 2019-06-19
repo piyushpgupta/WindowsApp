@@ -18,7 +18,7 @@ namespace ConsoleTestApp
             string TriangleType = "";
             if ((side1 == side2) && (side1 == side3))
             {
-                TriangleType = "Equilateral";
+                TriangleType = "Equilateral"
                 actualResult = "Equilateral";
             }
             else if ((side1 == side2) || (side1 == side3) || (side2 == side3))
